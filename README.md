@@ -22,3 +22,18 @@ COMPONENTS REQUIRED:
 6.	Push Buttons
 7.	10K,1K Resistors
 8.	Jumper Wires
+
+REFERENCES:
+[1] J. Pineau, M. Montemerlo, M. Pollack, N. Roy, and S.Thrun, “Towards robotic assistants in nursing homes: Challenges and results,” Robotics and Autonomous Systems, vol. 42, 2003, pp. 271-281.
+
+[2] Aditya Vijay, Durgesh Kumar Poornima College of Engineering, Jaipur, Rajasthan and Asst. Professor, Poornima College of Engineering, Jaipur, Rajasthan “Automatic Reminder Using Arduino” April 2018| IJIRT | Volume 4 Issue 11 | ISSN: 2349-6002
+
+[3] https://www.elprocus.com/rtc-dc1307
+
+[4] https://www.hackster.io/TechnicalEngineer/medicine-reminder-using-arduino-dad47d
+
+[5] https://www.electronicwings.com/anduino/hc-05-bluetooth-module-interfacing-wih-arduino-uno
+
+[6] https://www.electroniclininc.comandroid-app-development-to-control-arduino-over-bluetooth-using-android-studio
+ 
+[7] https://www.electronicshub.org/arduino-ds3231-rtc-module-tutorial
