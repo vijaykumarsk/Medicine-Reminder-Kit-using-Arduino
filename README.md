@@ -5,6 +5,7 @@ Modern medicine is helping to live a long life comfortably. Medicines satisfy th
 The number of inhabitants in individuals is expanding quickly, and they create memory challenges. They may miss medications, or take overdoses. This project act as a solution to this problem of medicine reminding.
 
 ABSTRACT:
+
 This project is a system which helps in medication administration and monitoring. Patients either forget to take the medicine at the required time or forgets which medicine to take at required time and it is difficult for a third person to monitor patients around the clock. To avoid these problems and human efforts, we have come up with this Medicine Reminder Kit using Arduino.
 This system can remind patients to take medicines 1 or 2 or 3 times a day. The time slot can be selected using push buttons. Also, it shows current Date and Time. SMS notification will be sent to user.
 RTC DS3231 module is interfaced through I2C protocol with Arduino Uno for time-keeping. RTC IC DS1307 can also be used for reading the time with Arduino but RTC DS3231 also has inbuilt 32k memory which can be used to store additional data. RTC module is powered through the 3.3V pin of Arduino uno. 
