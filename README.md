@@ -29,6 +29,7 @@ COMPONENTS REQUIRED:
 8.	Jumper Wires
 
 REFERENCES:
+
 [1] J. Pineau, M. Montemerlo, M. Pollack, N. Roy, and S.Thrun, “Towards robotic assistants in nursing homes: Challenges and results,” Robotics and Autonomous Systems, vol. 42, 2003, pp. 271-281.
 
 [2] Aditya Vijay, Durgesh Kumar Poornima College of Engineering, Jaipur, Rajasthan and Asst. Professor, Poornima College of Engineering, Jaipur, Rajasthan “Automatic Reminder Using Arduino” April 2018| IJIRT | Volume 4 Issue 11 | ISSN: 2349-6002
